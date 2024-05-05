@@ -2,4 +2,4 @@
 
 ## Natural Language Processing
   
-This is a respository covering the analysis of 
+This is a respository covering the sentiment analysis and a set of exploratory natural language processing techniques
