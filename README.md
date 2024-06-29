@@ -15,6 +15,7 @@ Preregistrations for all studies are available on the Open Science Framework:
 ```
 .
 ├── README.md
+├── LICENSE
 ├── Code
 │   ├── R
 │   └── Python (Jupyter Notebooks)
