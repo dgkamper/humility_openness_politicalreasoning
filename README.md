@@ -22,4 +22,8 @@ Preregistrations for all studies are available on the Open Science Framework:
 ├── Data
 └── Dictionaries
 ```
-##
+## Code
+
+### Python (Jupyter Notebooks)
+
+
